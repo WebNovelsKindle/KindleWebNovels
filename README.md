@@ -11,7 +11,7 @@ Bem-vindo ao **KindleWebNovels**! 🎉 Aqui você encontra WebNovels convertidas
 | 📚 Nome                        | ✍️ Autor           | 🌎 Idioma | 📂 Formato `.mobi` | 📂 Formato `.epub` |
 |--------------------------------|-------------------|----------|----------------|----------------|
 | **Shadow Slave** | Guiltythree         | 🇧🇷 PT-BR | [📥 Baixar](https://drive.google.com/drive/folders/1AESgXgJh3MyAgMu_X2tJnsRwyK2ZCkMR?usp=sharing) | [📥 Baixar](https://drive.google.com/drive/folders/1JxUbrGUM-tkm_5xRbnCvHDcL9vmcuwM4?usp=sharing) |
-| **Shadow Slave** | Guiltythree         | 🇧🇷 PT-BR | [📥 Baixar](https://drive.google.com/drive/folders/1ewJgkZLUURX2slPqiuSZjm4H9GeZg4h5?usp=sharing) | [📥 Baixar](https://drive.google.com/drive/folders/1LMpRISVoXPINjlYxlT7a3j9w1AryHecL?usp=sharing) |
+| **Lord of Mysteries** | Cuttlefish That Loves Diving, 爱潜水的乌贼         | 🇧🇷 PT-BR | [📥 Baixar](https://drive.google.com/drive/folders/1ewJgkZLUURX2slPqiuSZjm4H9GeZg4h5?usp=sharing) | [📥 Baixar](https://drive.google.com/drive/folders/1LMpRISVoXPINjlYxlT7a3j9w1AryHecL?usp=sharing) |
 
 
 *(Novels sendo adicionadas regularmente! 🚀)*  
